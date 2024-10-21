@@ -1,0 +1,35 @@
+{
+    "sistema": true,
+    "colorOfice": "#FFFF00",
+    "status": {
+        "texto": "Autoral Designer",
+        "presence": "idle"
+    },
+    "buttonsColor": "Secondary",
+    "channelLogs": "1295076566329593997",
+    "channelFeedbacks": "1297398865787621416",
+    "ticket": {
+        "title": "Autoral Designer - Atendimentos",
+        "description": "- **Caso queira tirar alguma dúvida, ou fazer o orçamento de algum projeto, basta abrir um ticket clicando no botão abaixo.** \n  - **Após isso, aguarde o atendimento de nossa equipe**",
+        "miniatura": "",
+        "banner": "",
+        "button": {
+            "name": "Suporte",
+            "color": "Vermelho",
+            "emoji": "1242109060518772847"
+        }
+    },
+    "ticketDentro": {
+        "title": "",
+        "description": "- **Informações:**\n - **ID DO TICKET:** `#ID`\n - **QUEM ABRIU O TICKET:** #USER\n - **QUEM ASSUMIU O TICKET:** #STAFF",
+        "miniatura": "",
+        "banner": ""
+    },
+    "payments": {
+        "sistema": true,
+        "pix": "",
+        "qrcode": ""
+    },
+    "cargoSuportt": "1295076496058355833",
+    "cargoMember": "1295076505256460514"
+}
